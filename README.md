@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Zekrom's GitHub data-ig](https://github-profile-trophy.vercel.app/?username=Zekrom-7780&theme=gruvbox)
 
-
+![Profile_Views](https://komarev.com/ghpvc/?username=Zekrom-7780&color=blue)
 
 <!---https://github-profile-trophy.vercel.app/?username=Zekrom-7780&theme=gruvbox
