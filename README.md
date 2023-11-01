@@ -12,4 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile_Views](https://komarev.com/ghpvc/?username=Zekrom-7780&color=blue)
 
+<!---[![Zekrom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zekrom-7780&)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---https://github-profile-trophy.vercel.app/?username=Zekrom-7780&theme=gruvbox
