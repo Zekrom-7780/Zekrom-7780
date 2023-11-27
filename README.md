@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zekrom-7780
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning RNNs
+- 🌱 I’m currently learning RNNs and Transformers
 - 💞️ I’m looking to contribute in various Open-Source areas
 - 📫 How to reach me :-via my e-mail, bhaveshmisra1@gmail.com
 
